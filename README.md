@@ -53,7 +53,8 @@ In an era of deepfakes, clickbait, and silent retroactive editing, the "truth" i
 * **⚖️ Bias Scoring:** The NLP engine assigns a "Neutrality Score" to potential news pieces before they are published.
 * **🔒 Tamper-Proof History:** Every article gets a cryptographic hash and timestamp. History is preserved exactly as it was written.
 * **💸 Crypto-Economic Incentives:** (Roadmap) Users pay gas fees to publish, reducing spam, while fact-checkers earn tokens for verifying complex stories.
-
+---
+live link https://apex-iv-truthchain.vercel.app/
 ---
 
 ## 🛠️ Installation & Setup
@@ -67,3 +68,5 @@ In an era of deepfakes, clickbait, and silent retroactive editing, the "truth" i
 ```bash
 git clone [https://github.com/YOUR_USERNAME/truthchain.git](https://github.com/YOUR_USERNAME/truthchain.git)
 cd truthchain
+
+
