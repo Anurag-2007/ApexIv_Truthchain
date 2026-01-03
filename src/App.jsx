@@ -8,7 +8,7 @@ import {
 import './App.css';
 
 // ------------------------------------------------------
-// 🔧 CONFIGURATION
+//  CONFIGURATION
 // ------------------------------------------------------
 const CONTRACT_ADDRESS = "0xYourSepoliaContractAddress"; 
 
@@ -25,7 +25,7 @@ function App() {
   const [txHash, setTxHash] = useState("");
   const [animateBar, setAnimateBar] = useState(0); // For smooth bar animation
   
-  // ✨ LIVE FEED
+  //  LIVE FEED
   const [feed, setFeed] = useState([
     { id: 1, title: "DeepSeek AI Benchmarks", verdict: "REAL", time: "2m ago" },
     { id: 2, title: "Atlantic Bridge Proposal", verdict: "FAKE", time: "5m ago" },
@@ -45,7 +45,7 @@ function App() {
   }, [result]);
 
   // ----------------------------------------------------
-  // 🤖 LOGIC ENGINE
+  //  LOGIC ENGINE
   // ----------------------------------------------------
   const analyzeText = () => {
     if (!text) return;
@@ -98,7 +98,7 @@ function App() {
   };
 
   // ----------------------------------------------------
-  // ⛓️ BLOCKCHAIN
+  //  BLOCKCHAIN
   // ----------------------------------------------------
   const connectWallet = async () => {
     if (window.ethereum) {
@@ -132,7 +132,7 @@ function App() {
   };
 
   // ----------------------------------------------------
-  // 🎨 UI RENDER
+  //  UI RENDER
   // ----------------------------------------------------
   return (
     <div className="container">
