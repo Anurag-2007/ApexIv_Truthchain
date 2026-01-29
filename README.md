@@ -65,7 +65,6 @@ live link https://apex-iv-truthchain.vercel.app/
 
 ### Prerequisites
 * Node.js & npm
-* Python 3.8+
 * MetaMask Extension
 
 ### 1. Clone the Repository
