@@ -29,21 +29,25 @@ In an era of deepfakes, clickbait, and silent retroactive editing, the "truth" i
 
 ## ⚙️ Tech Stack
 
-### 🧠 The AI Engine (Semantic NLP)
-* **Language:** Python
-* **Libraries:** Hugging Face Transformers, PyTorch, NLTK
-* **Models:** Fine-tuned **BERT** for Fake News Classification & Stance Detection.
-* **API:** Flask/FastAPI (Serving the model to the frontend).
+🌐 Frontend
 
-### ⛓️ The Blockchain Layer
-* **Network:** Ethereum (Sepolia Testnet)
-* **Smart Contract:** Solidity (v0.8+)
-* **Interaction:** Ethers.js
+React.js – Component-based UI with Hooks (useState, useEffect)
+JavaScript (ES6+) – Core application logic
+CSS3 – Custom styling & animations
+Lucide React – Modern SVG icon library
 
-### 💻 The Client
-* **Framework:** React.js (Vite)
-* **Styling:** CSS3 / Tailwind (optional)
-* **Auth:** MetaMask (Wallet Connect)
+🤖 AI / NLP
+
+Sentiment.js – Lightweight NLP library for sentiment & linguistic analysis
+Rule-based Heuristic Engine – Keyword scoring, credibility signals & hoax detection
+
+🔗 Blockchain / Web3
+
+Ethereum (Sepolia Testnet) – Decentralized verification layer
+Ethers.js – Wallet connection & smart contract interaction
+MetaMask – User wallet auth
+Solidity Smart Contract – Immutable news verification records on-chain
+
 
 ---
 
