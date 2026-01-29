@@ -4,7 +4,6 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum_Sepolia-3C3C3D?logo=ethereum&logoColor=white)
-![Python](https://img.shields.io/badge/AI_Engine-Python_NLP-3776AB?logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Model-Transformers-FFD21E?logo=huggingface&logoColor=black)
 
 ## 📖 Overview
